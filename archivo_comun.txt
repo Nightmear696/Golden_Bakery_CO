@@ -1,0 +1,1 @@
+print("Cambio hecho por Gerard el 13/10/2025 a las 10:45")
